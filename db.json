@@ -1,0 +1,58 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "The Memories of Sherlock Holmes",
+      "image": "https://media.anobii.com/covers/015da85e5a8757fa30/300/459/2/paperback/webp/1406484077",
+      "pages": 213,
+      "publicationDate": "May 7, 2014",
+      "description": "The fantastic and visionary world of Tim Burton, in a rich volume that celebrates his dreamlike and grotesque style, developed over 30 years of great successes Published to accompany an exhibition at the Museo Nazionale del Cinema, Turin, 10 October 2023 - 7 April 2024 Text in English and Italian",
+
+      "authorId":1,
+      "publisherId":1,
+      "rating":2.2,
+      "genreId": 1,
+      "languageId": 1
+
+    },
+    {
+      "id": 2,
+      "title": "The Memories of Sherlock Awss",
+      "image": "https://media.anobii.com/covers/015da85e5a8757fa30/300/459/2/paperback/webp/1406484077",
+      "pages": 223,
+      "publicationDate": "May 9, 2014",
+      "description": "The fantastic and visionary world of Tim Burton, in a rich volume that celebrates his dreamlike and grotesque style, developed over 30 years of great successes Published to accompany an exhibition at the Museo Nazionale del Cinema, Turin, 10 October 2023 - 7 April 2024 Text in English and Italian",
+
+      "authorId":1,
+      "publisherId":1,
+      "rating":2.2,
+      "genreId": 1,
+      "languageId": 1
+
+    }
+  ],
+  "authors" :[
+    {
+      "id": 1,
+      "name": "Arthur Conan Doyle"
+    }
+  ],
+  "publishers":[
+    {
+      "id":1,
+      "name": "Giunti Editore"
+    }
+  ],
+  "genres":[
+    {
+      "id":1,
+      "name": "Crime"
+    }
+  ],
+  "languages":[
+    {
+      "id":1,
+      "name": "English"
+    }
+  ]
+}
