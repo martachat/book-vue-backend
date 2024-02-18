@@ -77,85 +77,726 @@
     },
     {
       "id": 6,
-      "title": "The Memories of Sherlock Awss",
-      "image": "https://media.anobii.com/covers/015da85e5a8757fa30/300/459/2/paperback/webp/1406484077",
-      "pages": 223,
-      "publicationDate": "May 9, 2014",
-      "description": "The fantastic and visionary world of Tim Burton, in a rich volume that celebrates his dreamlike and grotesque style, developed over 30 years of great successes Published to accompany an exhibition at the Museo Nazionale del Cinema, Turin, 10 October 2023 - 7 April 2024 Text in English and Italian",
-
+      "title": "Paradise Lost",
+      "image": "https://media.anobii.com/covers/01955992da985042ff/300/363/2/hardcover/webp/0",
+      "pages": 384,
+      "publicationDate": "May 30, 2006",
+      "description": "In Paradise Lost Milton produced poem of epic scale, conjuring up a vast, awe-inspiring cosmos and ranging across huge tracts of space and time, populated by a memorable gallery of grotesques. And yet, in putting a charismatic Satan and naked, innocent Adam and Eve at the centre of this story, he also created an intensely human tragedy on the Fall of Man. Written when Milton was in his fifties - blind, bitterly disappointed by the Restoration and in danger of execution - Paradise Lost's apparent ambivalence towards authority has led to intense debate about whether it manages to 'justify the ways of God to men', or exposes the cruelty of Christianity.",
+ 
       "authorId":1,
       "publisherId":1,
       "rating":2.2,
       "genreId": 1,
       "languageId": 1
-
     },
     {
       "id": 7,
-      "title": "The Memories of Sherlock Holmes",
-      "image": "https://media.anobii.com/covers/015da85e5a8757fa30/300/459/2/paperback/webp/1406484077",
-      "pages": 213,
-      "publicationDate": "May 7, 2014",
-      "description": "The fantastic and visionary world of Tim Burton, in a rich volume that celebrates his dreamlike and grotesque style, developed over 30 years of great successes Published to accompany an exhibition at the Museo Nazionale del Cinema, Turin, 10 October 2023 - 7 April 2024 Text in English and Italian",
-
+      "title": "Norwegian Wood",
+      "image": "https://media.anobii.com/covers/008da4a09ba61fde9d/300/466/2/paperback/webp/1692158852",
+      "pages": 304,
+      "publicationDate": "Oct 1, 2000",
+      "description": "Toru, a quiet and preternaturally serious young college student in Tokyo, is devoted to Naoko, a beautiful and introspective young woman, but their mutual passion is marked by the tragic death of their best friend years before.  Toru begins to adapt to campus life and the loneliness and isolation he faces there, but Naoko finds the pressures and responsibilities of life unbearable.  As she retreats further into her own world, Toru finds himself reaching out to others and drawn to a fiercely independent and sexually liberated young woman.",
+ 
+ 
       "authorId":1,
       "publisherId":1,
       "rating":2.2,
       "genreId": 1,
       "languageId": 1
-
+ 
+ 
     },
     {
       "id": 8,
-      "title": "The Memories of Sherlock Awss",
-      "image": "https://media.anobii.com/covers/015da85e5a8757fa30/300/459/2/paperback/webp/1406484077",
-      "pages": 223,
-      "publicationDate": "May 9, 2014",
-      "description": "The fantastic and visionary world of Tim Burton, in a rich volume that celebrates his dreamlike and grotesque style, developed over 30 years of great successes Published to accompany an exhibition at the Museo Nazionale del Cinema, Turin, 10 October 2023 - 7 April 2024 Text in English and Italian",
-
+      "title": "The Path to the Spiders' Nests",
+      "image": "https://media.anobii.com/covers/0136b8ec1f7ea906fa/300/477/2/paperback/webp/0",
+      "pages": 192,
+      "publicationDate": "Feb 4, 1999",
+      "description": "Italo Calvino was only twenty-three when he first published this bold and imaginative novel. It tells the story of Pin, a cobbler's apprentice in a town on the Ligurian coast during World War II. He lives with his sister, a prostitute, and spends as much time as he can at a seedy bar where he amuses the adult patrons. After a mishap with a Nazi soldier, Pin becomes involved with a band of partisans. Calvino's portrayal of these characters, seen through the eyes of a child, is not only a revealing commentary on the Italian resistance but an insightful coming-of-age story.",
+ 
+ 
       "authorId":1,
       "publisherId":1,
       "rating":2.2,
       "genreId": 1,
       "languageId": 1
-
+ 
+ 
     },
     {
       "id": 9,
-      "title": "The Memories of Sherlock Holmes",
+      "title": "Kitchen",
       "image": "https://media.anobii.com/covers/015da85e5a8757fa30/300/459/2/paperback/webp/1406484077",
       "pages": 213,
-      "publicationDate": "May 7, 2014",
-      "description": "The fantastic and visionary world of Tim Burton, in a rich volume that celebrates his dreamlike and grotesque style, developed over 30 years of great successes Published to accompany an exhibition at the Museo Nazionale del Cinema, Turin, 10 October 2023 - 7 April 2024 Text in English and Italian",
-
+      "publicationDate": "Mar 1, 1994",
+      "description": "Kitchen is an enchantingly original book that juxtaposes two tales about mothers, love, tragedy, and the power of the kitchen and home in the lives of a pair of free-spirited young women in contemporary Japan. Mikage, the heroine, is an orphan raised by her grandmother, who has passed away. Grieving, Mikage is taken in by her friend Yoichi and his mother (who is really his cross-dressing father) Eriko. As the three of them form an improvised family that soon weathers its own tragic losses, Yoshimoto spins a lovely, evocative tale with the kitchen and the comforts of home at its heart.",
+ 
+ 
       "authorId":1,
       "publisherId":1,
       "rating":2.2,
       "genreId": 1,
       "languageId": 1
-
+ 
+ 
     },
     {
       "id": 10,
-      "title": "The Memories of Sherlock Awss",
-      "image": "https://media.anobii.com/covers/015da85e5a8757fa30/300/459/2/paperback/webp/1406484077",
-      "pages": 223,
-      "publicationDate": "May 9, 2014",
-      "description": "The fantastic and visionary world of Tim Burton, in a rich volume that celebrates his dreamlike and grotesque style, developed over 30 years of great successes Published to accompany an exhibition at the Museo Nazionale del Cinema, Turin, 10 October 2023 - 7 April 2024 Text in English and Italian",
-
+      "title": "The Lover",
+      "image": "https://media.anobii.com/covers/00f29ae4629a791cb8/300/450/2/paperback/webp/1219045568",
+      "pages": 128,
+      "publicationDate": "Oct 31, 1992",
+      "description": "Set in the prewar Indochina of Marguerite Duras's childhood, this is the haunting tale of a tumultuous affair between an adolescent French girl and her Chinese lover. In spare yet luminous prose, Duras evokes life on the margins of Saigon in the waning days of France's colonial empire, and its representation in the passionate relationship between two unforgettable outcasts.",
+ 
+ 
       "authorId":1,
       "publisherId":1,
       "rating":2.2,
       "genreId": 1,
       "languageId": 1
-
+    },
+    {
+      "id": 11,
+      "title": "The Great Gatsby",
+      "image": "https://media.anobii.com/covers/00506e49a21dabeeee/300/479/2/paperback/webp/1280731295",
+      "pages": 180,
+      "publicationDate": "Jun 12, 2003",
+      "description": "Set in the summer of 1922, The Great Gatsby explores the lives of the wealthy elite in the fictional East and West Egg. F. Scott Fitzgerald's classic tale of love, wealth, and the American Dream is both a critique of the Roaring Twenties and a timeless exploration of human nature.",
+ 
+ 
+      "authorId": 6,
+      "publisherId": 1,
+      "rating": 4.5,
+      "genreId": 2,
+      "languageId": 1
+    },
+    {
+      "id": 12,
+      "title": "To Kill a Mockingbird",
+      "image": "https://media.anobii.com/covers/018c5a71e348e04ec6/300/461/2/paperback/webp/0",
+      "pages": 324,
+      "publicationDate": "Mar 3, 2004",
+      "description": "Harper Lee's poignant exploration of racial injustice in the American South follows the story of Scout Finch, her brother Jem, and their father, the principled lawyer Atticus Finch. The novel is a powerful portrayal of morality, compassion, and the struggle for justice.",
+ 
+ 
+      "authorId": 7,
+      "publisherId": 2,
+      "rating": 4.8,
+      "genreId": 2,
+      "languageId": 1
+    },
+    {
+      "id": 13,
+      "title": "1984",
+      "image": "https://media.anobii.com/covers/0067d04283e9649d50/300/446/2/paperback/webp/0",
+      "pages": 328,
+      "publicationDate": "Oct 19, 2016",
+      "description": "George Orwell's dystopian masterpiece, 1984, presents a chilling vision of a totalitarian society where the government, led by the omnipresent Big Brother, controls every aspect of citizens' lives. A cautionary tale about the dangers of unchecked power and the erosion of individual freedoms.",
+ 
+ 
+      "authorId": 8,
+      "publisherId": 3,
+      "rating": 4.6,
+      "genreId": 2,
+      "languageId": 1
+    },
+    {
+      "id": 14,
+      "title": "Pride and Prejudice",
+      "image": "https://media.anobii.com/covers/006a0cc01d01a349ff/300/494/2/paperback/webp/0",
+      "pages": 279,
+      "publicationDate": "Feb 4, 2009",
+      "description": "Jane Austen's classic novel of manners and love follows the spirited Elizabeth Bennet as she navigates the social norms and expectations of early 19th-century England. Pride and Prejudice is a timeless exploration of societal expectations, personal growth, and the complexities of romance.",
+ 
+ 
+      "authorId": 9,
+      "publisherId": 4,
+      "rating": 4.7,
+      "genreId": 2,
+      "languageId": 1
+    },
+    {
+      "id": 15,
+      "title": "One Hundred Years of Solitude",
+      "image": "https://media.anobii.com/covers/00506e49a21dabeeee/300/479/2/paperback/webp/1280731295",
+      "pages": 417,
+      "publicationDate": "Sep 7, 2015",
+      "description": "Gabriel García Márquez's magical realist novel chronicles the Buendía family across generations in the fictional town of Macondo. Richly woven with elements of fantasy and folklore, One Hundred Years of Solitude is a literary masterpiece that explores the cyclical nature of history and the human condition.",
+ 
+ 
+      "authorId": 10,
+      "publisherId": 5,
+      "rating": 4.9,
+      "genreId": 2,
+      "languageId": 1
+    },
+    {
+      "id": 16,
+      "title": "Moby-Dick",
+      "image": "https://media.anobii.com/covers/0067d04283e9649d50/300/446/2/paperback/webp/0",
+      "pages": 625,
+      "publicationDate": "Jul 15, 2003",
+      "description": "Herman Melville's epic tale of Captain Ahab's obsessive quest for revenge against the elusive white whale, Moby-Dick, is a symbolic exploration of humanity's relationship with nature and the consequences of unchecked ambition.",
+ 
+ 
+      "authorId": 11,
+      "publisherId": 1,
+      "rating": 4.4,
+      "genreId": 2,
+      "languageId": 1
+    },
+    {
+      "id": 17,
+      "title": "The Catcher in the Rye",
+      "image": "https://media.anobii.com/covers/018c5a71e348e04ec6/300/461/2/paperback/webp/0",
+      "pages": 277,
+      "publicationDate": "Sep 30, 2001",
+      "description": "J.D. Salinger's coming-of-age novel follows the rebellious teenager Holden Caulfield as he navigates the challenges of adolescence and grapples with the phoniness of the adult world. A timeless exploration of alienation, identity, and the search for authenticity.",
+ 
+ 
+      "authorId": 12,
+      "publisherId": 2,
+      "rating": 4.3,
+      "genreId": 2,
+      "languageId": 1
+    },
+    {
+      "id": 18,
+      "title": "The Lord of the Rings",
+      "image": "https://media.anobii.com/covers/006a0cc01d01a349ff/300/494/2/paperback/webp/0",
+      "pages": 1178,
+      "publicationDate": "Oct 12, 2005",
+      "description": "J.R.R. Tolkien's epic fantasy trilogy follows the quest to destroy the One Ring and defeat the dark lord Sauron. The Lord of the Rings is a classic tale of heroism, friendship, and the struggle between good and evil.",
+ 
+ 
+      "authorId": 13,
+      "publisherId": 3,
+      "rating": 4.9,
+      "genreId": 2,
+      "languageId": 1
+    },
+    {
+      "id": 19,
+      "title": "The Grapes of Wrath",
+      "image": "https://media.anobii.com/covers/018c5a71e348e04ec6/300/461/2/paperback/webp/0",
+      "pages": 464,
+      "publicationDate": "May 22, 2006",
+      "description": "John Steinbeck's powerful novel portrays the struggles of the Joad family as they journey west during the Great Depression. The Grapes of Wrath is a poignant exploration of poverty, social injustice, and the indomitable human spirit.",
+ 
+ 
+      "authorId": 14,
+      "publisherId": 4,
+      "rating": 4.6,
+      "genreId": 2,
+      "languageId": 1
+    },
+    {
+      "id": 20,
+      "title": "The Hobbit",
+      "image": "https://media.anobii.com/covers/0067d04283e9649d50/300/446/2/paperback/webp/0",
+      "pages": 310,
+      "publicationDate": "Sep 20, 2012",
+      "description": "J.R.R. Tolkien's classic adventure follows Bilbo Baggins as he joins a group of dwarves on a quest to reclaim their homeland from the fearsome dragon Smaug. The Hobbit is a charming tale of bravery, friendship, and unexpected heroism.",
+ 
+ 
+      "authorId": 13,
+      "publisherId": 5,
+      "rating": 4.7,
+      "genreId": 2,
+      "languageId": 1
+    },
+    {
+      "id": 21,
+      "title": "Wuthering Heights",
+      "image": "https://media.anobii.com/covers/006a0cc01d01a349ff/300/494/2/paperback/webp/0",
+      "pages": 416,
+      "publicationDate": "Mar 10, 2010",
+      "description": "Emily Brontë's dark and passionate tale of love and revenge unfolds on the moors of Yorkshire. Wuthering Heights explores the destructive power of obsession and the enduring nature of true love.",
+ 
+ 
+      "authorId": 15,
+      "publisherId": 1,
+      "rating": 4.5,
+      "genreId": 2,
+      "languageId": 1
+    },
+    {
+      "id": 22,
+      "title": "Brave New World",
+      "image": "https://media.anobii.com/covers/00506e49a21dabeeee/300/479/2/paperback/webp/1280731295",
+      "pages": 311,
+      "publicationDate": "Apr 5, 2017",
+      "description": "Aldous Huxley's dystopian novel envisions a future society where individuals are conditioned for conformity, pleasure, and societal stability. Brave New World is a thought-provoking exploration of the consequences of sacrificing individuality for societal harmony.",
+ 
+ 
+      "authorId": 16,
+      "publisherId": 2,
+      "rating": 4.4,
+      "genreId": 2,
+      "languageId": 1
+    },
+    {
+      "id": 23,
+      "title": "Frankenstein",
+      "image": "https://media.anobii.com/covers/018c5a71e348e04ec6/300/461/2/paperback/webp/0",
+      "pages": 280,
+      "publicationDate": "Aug 15, 2011",
+      "description": "Mary Shelley's groundbreaking work of science fiction explores the consequences of scientific hubris as Dr. Victor Frankenstein creates a creature that becomes a tragic symbol of isolation and rejection.",
+ 
+ 
+      "authorId": 17,
+      "publisherId": 3,
+      "rating": 4.6,
+      "genreId": 2,
+      "languageId": 1
+    },
+    {
+      "id": 24,
+      "title": "The Odyssey",
+      "image": "https://media.anobii.com/covers/0067d04283e9649d50/300/446/2/paperback/webp/0",
+      "pages": 324,
+      "publicationDate": "Jan 8, 2008",
+      "description": "Homer's ancient epic follows the hero Odysseus on his perilous journey home after the Trojan War. The Odyssey is a timeless tale of adventure, perseverance, and the enduring power of cunning and wit.",
+ 
+ 
+      "authorId": 18,
+      "publisherId": 4,
+      "rating": 4.8,
+      "genreId": 2,
+      "languageId": 1
+    },
+    {
+      "id": 25,
+      "title": "Jane Eyre",
+      "image": "https://media.anobii.com/covers/018c5a71e348e04ec6/300/461/2/paperback/webp/0",
+      "pages": 548,
+      "publicationDate": "May 2, 2005",
+      "description": "Charlotte Brontë's classic novel tells the story of the orphaned and mistreated Jane Eyre as she overcomes adversity, finds love, and discovers her own strength. A timeless exploration of social class, morality, and the pursuit of personal happiness.",
+ 
+ 
+      "authorId": 19,
+      "publisherId": 5,
+      "rating": 4.7,
+      "genreId": 2,
+      "languageId": 1
+    },
+    {
+      "id": 26,
+      "title": "The Brothers Karamazov",
+      "image": "https://media.anobii.com/covers/006a0cc01d01a349ff/300/494/2/paperback/webp/0",
+      "pages": 796,
+      "publicationDate": "Nov 14, 2013",
+      "description": "Fyodor Dostoevsky's final novel explores the complex relationships and philosophical dilemmas within the Karamazov family. A profound examination of faith, morality, and the search for meaning.",
+ 
+ 
+      "authorId": 3,
+      "publisherId": 1,
+      "rating": 4.9,
+      "genreId": 1,
+      "languageId": 1
+    },
+    {
+      "id": 27,
+      "title": "The Picture of Dorian Gray",
+      "image": "https://media.anobii.com/covers/00506e49a21dabeeee/300/479/2/paperback/webp/1280731295",
+      "pages": 250,
+      "publicationDate": "Mar 20, 2007",
+      "description": "Oscar Wilde's provocative novel follows the life of Dorian Gray, a man whose portrait ages while he remains young and beautiful. The Picture of Dorian Gray is a philosophical exploration of morality, decadence, and the consequences of indulgence.",
+ 
+ 
+      "authorId": 20,
+      "publisherId": 2,
+      "rating": 4.8,
+      "genreId": 2,
+      "languageId": 1
+    },
+    {
+      "id": 28,
+      "title": "Anna Karenina",
+      "image": "https://media.anobii.com/covers/018c5a71e348e04ec6/300/461/2/paperback/webp/0",
+      "pages": 864,
+      "publicationDate": "Aug 9, 2004",
+      "description": "Leo Tolstoy's epic novel explores the tragic consequences of an illicit love affair between Anna Karenina and Count Vronsky. A sweeping portrayal of Russian society and a profound meditation on love, morality, and societal expectations.",
+ 
+ 
+      "authorId": 21,
+      "publisherId": 3,
+      "rating": 4.7,
+      "genreId": 2,
+      "languageId": 1
+    },
+    {
+      "id": 29,
+      "title": "The Iliad",
+      "image": "https://media.anobii.com/covers/0067d04283e9649d50/300/446/2/paperback/webp/0",
+      "pages": 683,
+      "publicationDate": "Sep 12, 2019",
+      "description": "Homer's ancient epic poem recounts the events of the Trojan War and the heroics of Achilles. The Iliad is a timeless exploration of honor, glory, and the consequences of war.",
+ 
+ 
+      "authorId": 18,
+      "publisherId": 4,
+      "rating": 4.8,
+      "genreId": 2,
+      "languageId": 1
+    },
+    {
+      "id": 30,
+      "title": "The Silmarillion",
+      "image": "https://media.anobii.com/covers/006a0cc01d01a349ff/300/494/2/paperback/webp/0",
+      "pages": 365,
+      "publicationDate": "Dec 5, 2016",
+      "description": "J.R.R. Tolkien's posthumously published work delves into the mythology and history of Middle-earth. The Silmarillion is a rich tapestry of tales, exploring the creation of the world, the struggles of elves and men, and the ultimate battle between good and evil.",
+ 
+ 
+      "authorId": 13,
+      "publisherId": 5,
+      "rating": 4.6,
+      "genreId": 2,
+      "languageId": 1
+    },
+    {
+      "id": 31,
+      "title": "Siddhartha",
+      "image": "https://media.anobii.com/covers/0067d04283e9649d50/300/446/2/paperback/webp/0",
+      "pages": 152,
+      "publicationDate": "Jan 15, 2002",
+      "description": "Hermann Hesse's philosophical novel follows the spiritual journey of Siddhartha as he seeks enlightenment and self-discovery. Siddhartha is a timeless exploration of the quest for meaning and the pursuit of inner peace.",
+ 
+ 
+      "authorId": 22,
+      "publisherId": 1,
+      "rating": 4.5,
+      "genreId": 2,
+      "languageId": 1
+    },
+    {
+      "id": 32,
+      "title": "Les Misérables",
+      "image": "https://media.anobii.com/covers/018c5a71e348e04ec6/300/461/2/paperback/webp/0",
+      "pages": 1463,
+      "publicationDate": "Oct 18, 2010",
+      "description": "Victor Hugo's epic novel tells the story of Jean Valjean, a former convict seeking redemption, and the lives of those he encounters in post-revolutionary France. Les Misérables is a sweeping tale of justice, love, and the human spirit.",
+ 
+ 
+      "authorId": 23,
+      "publisherId": 2,
+      "rating": 4.9,
+      "genreId": 2,
+      "languageId": 1
+    },
+    {
+      "id": 33,
+      "title": "The Hunchback of Notre-Dame",
+      "image": "https://media.anobii.com/covers/00506e49a21dabeeee/300/479/2/paperback/webp/1280731295",
+      "pages": 940,
+      "publicationDate": "Mar 24, 2008",
+      "description": "Victor Hugo's Gothic novel explores the tragic fate of Quasimodo, the hunchbacked bell ringer of Notre-Dame Cathedral, and his unrequited love for the beautiful Esmeralda. A tale of love, prejudice, and the enduring power of kindness.",
+ 
+ 
+      "authorId": 23,
+      "publisherId": 3,
+      "rating": 4.7,
+      "genreId": 2,
+      "languageId": 1
+    },
+    {
+      "id": 34,
+      "title": "A Tale of Two Cities",
+      "image": "https://media.anobii.com/covers/006a0cc01d01a349ff/300/494/2/paperback/webp/0",
+      "pages": 448,
+      "publicationDate": "Jun 30, 2011",
+      "description": "Charles Dickens' historical novel unfolds against the backdrop of the French Revolution and follows the lives of several characters in London and Paris. A Tale of Two Cities is a timeless exploration of sacrifice, resurrection, and the tumultuous forces of social change.",
+ 
+ 
+      "authorId": 24,
+      "publisherId": 4,
+      "rating": 4.8,
+      "genreId": 2,
+      "languageId": 1
+    },
+    {
+      "id": 35,
+      "title": "The Count of Monte Cristo",
+      "image": "https://media.anobii.com/covers/018c5a71e348e04ec6/300/461/2/paperback/webp/0",
+      "pages": 1276,
+      "publicationDate": "Sep 5, 2009",
+      "description": "Alexandre Dumas' adventure novel tells the story of Edmond Dantès, who, betrayed and wronged, seeks revenge as the mysterious and wealthy Count of Monte Cristo. A tale of justice, betrayal, and the enduring power of hope.",
+ 
+ 
+      "authorId": 25,
+      "publisherId": 5,
+      "rating": 4.9,
+      "genreId": 1,
+      "languageId": 1
+    },
+    {
+      "id": 36,
+      "title": "The Canterbury Tales",
+      "image": "https://media.anobii.com/covers/0067d04283e9649d50/300/446/2/paperback/webp/0",
+      "pages": 544,
+      "publicationDate": "Dec 14, 2015",
+      "description": "Geoffrey Chaucer's collection of stories follows a diverse group of pilgrims on their journey to Canterbury. The Canterbury Tales is a masterful exploration of human nature, morality, and the social fabric of medieval England.",
+ 
+ 
+      "authorId": 26,
+      "publisherId": 1,
+      "rating": 4.6,
+      "genreId": 2,
+      "languageId": 1
+    },
+    {
+      "id": 37,
+      "title": "The War of the Worlds",
+      "image": "https://media.anobii.com/covers/00506e49a21dabeeee/300/479/2/paperback/webp/1280731295",
+      "pages": 192,
+      "publicationDate": "Nov 2, 2006",
+      "description": "H.G. Wells' classic science fiction novel recounts the invasion of Earth by Martians. The War of the Worlds is a groundbreaking work that explores themes of colonialism, survival, and the fragility of human civilization.",
+ 
+ 
+      "authorId": 27,
+      "publisherId": 2,
+      "rating": 4.5,
+      "genreId": 2,
+      "languageId": 1
+    },
+    {
+      "id": 38,
+      "title": "The Scarlet Letter",
+      "image": "https://media.anobii.com/covers/018c5a71e348e04ec6/300/461/2/paperback/webp/0",
+      "pages": 238,
+      "publicationDate": "Apr 18, 2008",
+      "description": "Nathaniel Hawthorne's novel explores the consequences of adultery as Hester Prynne grapples with her sin and society's judgment. The Scarlet Letter is a timeless exploration of guilt, redemption, and the complexities of human nature.",
+ 
+ 
+      "authorId": 28,
+      "publisherId": 3,
+      "rating": 4.7,
+      "genreId": 2,
+      "languageId": 1
+    },
+    {
+      "id": 39,
+      "title": "The Divine Comedy",
+      "image": "https://media.anobii.com/covers/006a0cc01d01a349ff/300/494/2/paperback/webp/0",
+      "pages": 798,
+      "publicationDate": "Aug 30, 2010",
+      "description": "Dante Alighieri's epic poem follows the journey of the soul through Hell, Purgatory, and Heaven. The Divine Comedy is a profound exploration of theology, morality, and the human condition.",
+ 
+ 
+      "authorId": 29,
+      "publisherId": 4,
+      "rating": 4.9,
+      "genreId": 2,
+      "languageId": 1
+    },
+    {
+      "id": 40,
+      "title": "The Jungle Book",
+      "image": "https://media.anobii.com/covers/0067d04283e9649d50/300/446/2/paperback/webp/0",
+      "pages": 336,
+      "publicationDate": "Jul 22, 2013",
+      "description": "Rudyard Kipling's collection of stories follows the adventures of Mowgli, a young boy raised by wolves in the jungles of India. The Jungle Book is a timeless exploration of the balance between humans and nature.",
+ 
+ 
+      "authorId": 30,
+      "publisherId": 5,
+      "rating": 4.6,
+      "genreId": 2,
+      "languageId": 1
+    },
+    {
+      "id": 41,
+      "title": "The Three Musketeers",
+      "image": "https://media.anobii.com/covers/018c5a71e348e04ec6/300/461/2/paperback/webp/0",
+      "pages": 704,
+      "publicationDate": "May 11, 2004",
+      "description": "Alexandre Dumas' swashbuckling adventure follows the escapades of d'Artagnan and the three musketeers as they navigate the political intrigues of 17th-century France. A tale of friendship, loyalty, and daring exploits.",
+ 
+ 
+      "authorId": 25,
+      "publisherId": 1,
+      "rating": 4.7,
+      "genreId": 1,
+      "languageId": 1
+    },
+    {
+      "id": 42,
+      "title": "Gulliver's Travels",
+      "image": "https://media.anobii.com/covers/00506e49a21dabeeee/300/479/2/paperback/webp/1280731295",
+      "pages": 306,
+      "publicationDate": "Apr 8, 2015",
+      "description": "Jonathan Swift's satirical novel recounts the adventures of Lemuel Gulliver as he travels to fantastical lands inhabited by curious creatures. Gulliver's Travels is a witty exploration of human nature, society, and political satire.",
+ 
+ 
+      "authorId": 31,
+      "publisherId": 2,
+      "rating": 4.5,
+      "genreId": 2,
+      "languageId": 1
+    },
+    {
+      "id": 43,
+      "title": "The Wind in the Willows",
+      "image": "https://media.anobii.com/covers/018c5a71e348e04ec6/300/461/2/paperback/webp/0",
+      "pages": 256,
+      "publicationDate": "Jun 3, 2011",
+      "description": "Kenneth Grahame's charming tale follows the adventures of anthropomorphic animals, including Mole, Ratty, Toad, and Badger. The Wind in the Willows is a timeless exploration of friendship, camaraderie, and the joys of the English countryside.",
+ 
+ 
+      "authorId": 32,
+      "publisherId": 3,
+      "rating": 4.6,
+      "genreId": 2,
+      "languageId": 1
     }
   ],
   "authors" :[
     {
       "id": 1,
       "name": "Arthur Conan Doyle"
+    },
+    {
+      "id": 2,
+      "name": "Virginia Woolf"
+    },
+    {
+      "id": 3,
+      "name": "Fyodor M. Dostoevsky"
+    },
+    {
+      "id": 4,
+      "name": "Fernando Pessoa"
+    },
+    {
+      "id": 5,
+      "name": "Italo Calvino"
+    },
+    {
+      "id": 6,
+      "name": "John Milton"
+    },
+    {
+      "id": 7,
+      "name": "Haruki Murakami"
+    },
+    {
+      "id": 8,
+      "name": "Banana Yoshimoto"
+    },
+    {
+      "id": 9,
+      "name": "Marguerite Duras"
+    },
+    {
+      "id": 10,
+      "name": "Francis Scott Fitzgerald"
+    },
+    {
+      "id": 11,
+      "name": "Harper Lee"
+    },
+    {
+      "id": 12,
+      "name": "George Orwell"
+    },
+    {
+      "id": 13,
+      "name": "Jane Austen"
+    }, 
+    {
+      "id": 14,
+      "name": "Gabriel garcia"
+    },
+    {
+      "id": 15,
+      "name": "Herman Melville"
+    },
+    {
+      "id": 16,
+      "name": "J. D. Salinger"
+    },
+    {
+      "id": 17,
+      "name": "J.R.R Tolkien"
+    },
+    {
+      "id": 18,
+      "name": "John Steinbeck"
+    },
+    {
+      "id": 19,
+      "name": "Emily Bronte"
+    },
+    {
+      "id": 20,
+      "name": "Aldous Huxley"
+    },
+    {
+      "id": 21,
+      "name": "Mary Shelley"
+    },
+    {
+      "id": 22,
+      "name": "Homer"
+    },
+    {
+      "id": 23,
+      "name": "Charlotte Bronte"
+    },
+    {
+      "id": 24,
+      "name": "Oscar Wilde"
+    },
+    {
+      "id": 25,
+      "name": "Leo Tolstoy"
+    },
+    {
+      "id": 26,
+      "name": "Herman Hesse"
+    },
+    {
+      "id": 27,
+      "name": "Victor Hugo"
+    },
+    {
+      "id": 28,
+      "name": "Charles Dickens"
+    },
+    {
+      "id": 29,
+      "name": "Alexandre Dumas"
+    },
+    {
+      "id": 30,
+      "name": "Geoffrey Chaucer"
+    },
+    {
+      "id": 31,
+      "name": "H.G. Wells"
+    },
+    {
+      "id": 32,
+      "name": "Nathaniel Hawthorne"
+    },
+    {
+      "id": 33,
+      "name": "Dante Alighieri"
+    },
+    {
+      "id": 34,
+      "name": "Rudyard Kipling"
+    },
+    {
+      "id": 35,
+      "name": "Jonathan Swift"
+    },
+    {
+      "id": 36,
+      "name": "Kenneth Grahame"
     }
+ 
   ],
   "publishers":[
     {
@@ -166,13 +807,45 @@
   "genres":[
     {
       "id":1,
-      "name": "Crime"
+      "name": "Crime & Detective Fiction"
+    },
+    {
+      "id":2,
+      "name": "Fiction & Literature"
+    },
+    {
+      "id":3,
+      "name": "Fantasy & Science Fiction"
     }
   ],
   "languages":[
     {
       "id":1,
       "name": "English"
+    },
+    {
+      "id":2,
+      "name": "French"
+    },
+    {
+      "id":3,
+      "name": "Spanish"
+    },
+    {
+      "id":4,
+      "name": "Italian"
+    },
+    {
+      "id":5,
+      "name": "Portuguese"
+    },
+    {
+      "id":1,
+      "name": "Arabics"
+    },
+    {
+      "id":1,
+      "name": "Russian"
     }
   ]
 }
