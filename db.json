@@ -1269,6 +1269,12 @@
       "password": "$2a$10$z2GdV/j2WV2/NIakbTh9Se72sbr4EtqWtBCX/K5YUi8Ef/CaLKHau",
       "name": "amskdm",
       "id": "2pZpLTD"
+    },
+    {
+      "email": "a@aa.com",
+      "password": "$2a$10$E1769/QL5WoAiHB7euBPEuSxVzpnIL3bltNlsvVu7yCX8OmI9JVhS",
+      "name": "admin",
+      "id": "tn2oMTP"
     }
   ],
   "comments": [
