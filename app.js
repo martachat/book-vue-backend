@@ -1,5 +1,7 @@
 require("dotenv").config();
 const jsonServer = require("json-server");
+const auth = require("json-server-auth");
+
 const morgan = require("morgan");
 
 const server = jsonServer.create();
@@ -14,6 +16,20 @@ server.use((req, res, next) => {
   res.header("Access-Control-Allow-Origin", "*");
   next();
 });
+server.db = router.db;
+
+const rules = auth.rewriter({
+  // Permission rules
+  // users: 600,
+  // books: 640,
+  "books/:id": 640,
+  // comments:644,
+  // Other rules
+  // '/books/: '/books',
+});
+
+server.use(rules);
+server.use(auth);
 server.use(router);
 
 server.listen(PORT, () => {

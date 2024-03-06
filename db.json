@@ -1,7 +1,7 @@
 {
   "books": [
     {
-      "id": 1,
+      "id": "1",
       "title": "The Memories of Sherlock Holmes",
       "image": "https://media.anobii.com/covers/015da85e5a8757fa30/300/459/2/paperback/webp/1406484077",
       "pages": 213,
@@ -14,7 +14,7 @@
       "languageId": 1
     },
     {
-      "id": 2,
+      "id": "2",
       "title": "Mrs Dalloway",
       "image": "https://media.anobii.com/covers/01513518732b054af7/300/449/2/paperback/webp/1551274737",
       "pages": 176,
@@ -27,7 +27,7 @@
       "languageId": 1
     },
     {
-      "id": 3,
+      "id": "3",
       "title": "Crime and Punishment",
       "image": "https://media.anobii.com/covers/00506e49a21dabeeee/300/479/2/paperback/webp/1280731295",
       "pages": 672,
@@ -40,7 +40,7 @@
       "languageId": 1
     },
     {
-      "id": 4,
+      "id": "4",
       "title": "The Book of Disquiet",
       "image": "https://media.anobii.com/covers/018c5a71e348e04ec6/300/461/2/paperback/webp/0",
       "pages": 223,
@@ -53,7 +53,7 @@
       "languageId": 1
     },
     {
-      "id": 5,
+      "id": "5",
       "title": "Invisible Cities",
       "image": "https://media.anobii.com/covers/0067d04283e9649d50/300/446/2/paperback/webp/0",
       "pages": 165,
@@ -66,7 +66,7 @@
       "languageId": 1
     },
     {
-      "id": 6,
+      "id": "6",
       "title": "Paradise Lost",
       "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Houghton_EC65.M6427P.1667aa_-_Paradise_Lost%2C_1667.jpg",
       "pages": 384,
@@ -79,7 +79,7 @@
       "languageId": 1
     },
     {
-      "id": 7,
+      "id": "7",
       "title": "Norwegian Wood",
       "image": "https://media.anobii.com/covers/008da4a09ba61fde9d/300/466/2/paperback/webp/1692158852",
       "pages": 304,
@@ -92,7 +92,7 @@
       "languageId": 1
     },
     {
-      "id": 8,
+      "id": "8",
       "title": "The Path to the Spiders' Nests",
       "image": "https://media.anobii.com/covers/0136b8ec1f7ea906fa/300/477/2/paperback/webp/0",
       "pages": 192,
@@ -105,7 +105,7 @@
       "languageId": 1
     },
     {
-      "id": 9,
+      "id": "9",
       "title": "Kitchen",
       "image": "https://media.anobii.com/covers/00b8c9c89c1aa98576/300/432/2/paperback/webp/0",
       "pages": 213,
@@ -118,7 +118,7 @@
       "languageId": 1
     },
     {
-      "id": 10,
+      "id": "10",
       "title": "The Lover",
       "image": "https://media.anobii.com/covers/00f29ae4629a791cb8/300/450/2/paperback/webp/1219045568",
       "pages": 128,
@@ -131,7 +131,7 @@
       "languageId": 1
     },
     {
-      "id": 11,
+      "id": "11",
       "title": "The Great Gatsby",
       "image": "https://media.anobii.com/covers/00fd1ab5567b05c690/300/451/2/hardcover/webp/0",
       "pages": 180,
@@ -144,7 +144,7 @@
       "languageId": 1
     },
     {
-      "id": 12,
+      "id": "12",
       "title": "To Kill a Mockingbird",
       "image": "https://media.anobii.com/covers/0018460c3774204578/300/480/2/paperback/webp/0",
       "pages": 324,
@@ -157,7 +157,7 @@
       "languageId": 1
     },
     {
-      "id": 13,
+      "id": "13",
       "title": "1984",
       "image": "https://media.anobii.com/covers/00abbcc8206600db52/300/459/2/paperback/webp/1618232989",
       "pages": 328,
@@ -170,7 +170,7 @@
       "languageId": 1
     },
     {
-      "id": 14,
+      "id": "14",
       "title": "Pride and Prejudice",
       "image": "https://media.anobii.com/covers/011e46f87356729466/300/449/2/paperback/webp/1522400047",
       "pages": 279,
@@ -183,7 +183,7 @@
       "languageId": 1
     },
     {
-      "id": 15,
+      "id": "15",
       "title": "One Hundred Years of Solitude",
       "image": "https://media.anobii.com/covers/00d3361912dea033b0/300/442/2/paperback/webp/0",
       "pages": 417,
@@ -196,7 +196,7 @@
       "languageId": 1
     },
     {
-      "id": 16,
+      "id": "16",
       "title": "Moby-Dick",
       "image": "https://media.anobii.com/covers/0175df1352835eb283/300/494/2/paperback/webp/1322167779",
       "pages": 625,
@@ -209,7 +209,7 @@
       "languageId": 1
     },
     {
-      "id": 17,
+      "id": "17",
       "title": "The Catcher in the Rye",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/The_Catcher_in_the_Rye_%281951%2C_first_edition_cover%29.jpg/640px-The_Catcher_in_the_Rye_%281951%2C_first_edition_cover%29.jpg",
       "pages": 277,
@@ -222,7 +222,7 @@
       "languageId": 1
     },
     {
-      "id": 18,
+      "id": "18",
       "title": "The Lord of the Rings",
       "image": "https://media.anobii.com/covers/00c1c7bab4b1fdef27/300/417/2/hardcover/webp/1200123647",
       "pages": 1178,
@@ -235,7 +235,7 @@
       "languageId": 1
     },
     {
-      "id": 19,
+      "id": "19",
       "title": "The Grapes of Wrath",
       "image": "https://media.anobii.com/covers/00e3053d881c8c75df/300/471/2/paperback/webp/0",
       "pages": 464,
@@ -248,7 +248,7 @@
       "languageId": 1
     },
     {
-      "id": 20,
+      "id": "20",
       "title": "The Hobbit",
       "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/The_Hobbit_trilogy_dvd_cover.jpg/220px-The_Hobbit_trilogy_dvd_cover.jpg",
       "pages": 310,
@@ -261,7 +261,7 @@
       "languageId": 1
     },
     {
-      "id": 21,
+      "id": "21",
       "title": "Wuthering Heights",
       "image": "https://media.anobii.com/covers/0083853845c1ca8c27/300/456/2/paperback/webp/0",
       "pages": 416,
@@ -274,7 +274,7 @@
       "languageId": 1
     },
     {
-      "id": 22,
+      "id": "22",
       "title": "Brave New World",
       "image": "https://media.anobii.com/covers/0179b6a0b5b6395eb3/300/442/2/paperback/webp/1273151284",
       "pages": 311,
@@ -287,7 +287,7 @@
       "languageId": 1
     },
     {
-      "id": 23,
+      "id": "23",
       "title": "Frankenstein",
       "image": "https://media.anobii.com/covers/019185f7da962071f8/300/491/2/paperback/webp/1529480676",
       "pages": 280,
@@ -300,7 +300,7 @@
       "languageId": 1
     },
     {
-      "id": 24,
+      "id": "24",
       "title": "The Odyssey",
       "image": "https://media.anobii.com/covers/0079c8d463dce5937e/300/494/2/paperback/webp/1214389930",
       "pages": 324,
@@ -313,7 +313,7 @@
       "languageId": 1
     },
     {
-      "id": 25,
+      "id": "25",
       "title": "Jane Eyre",
       "image": "https://media.anobii.com/covers/015e64d0e35db18ec9/300/454/2/paperback/webp/1233198051",
       "pages": 548,
@@ -326,7 +326,7 @@
       "languageId": 1
     },
     {
-      "id": 26,
+      "id": "26",
       "title": "The Brothers Karamazov",
       "image": "https://media.anobii.com/covers/00267eb8e8b4ecd717/300/461/2/paperback/webp/0",
       "pages": 796,
@@ -339,7 +339,7 @@
       "languageId": 1
     },
     {
-      "id": 27,
+      "id": "27",
       "title": "The Picture of Dorian Gray",
       "image": "https://media.anobii.com/covers/017819dc6badf4bb5d/300/444/2/hardcover/webp/1214158178",
       "pages": 250,
@@ -352,7 +352,7 @@
       "languageId": 1
     },
     {
-      "id": 28,
+      "id": "28",
       "title": "Anna Karenina",
       "image": "https://media.anobii.com/covers/011aec3747e9f3215a/300/492/2/paperback/webp/1699490043",
       "pages": 864,
@@ -365,7 +365,7 @@
       "languageId": 1
     },
     {
-      "id": 29,
+      "id": "29",
       "title": "The Iliad",
       "image": "https://mpd-biblio-covers.imgix.net/9780374529055.jpg",
       "pages": 683,
@@ -378,7 +378,7 @@
       "languageId": 1
     },
     {
-      "id": 30,
+      "id": "30",
       "title": "The Silmarillion",
       "image": "https://i.harperapps.com/covers/9780008669140/y648.jpg",
       "pages": 365,
@@ -391,7 +391,7 @@
       "languageId": 1
     },
     {
-      "id": 31,
+      "id": "31",
       "title": "Siddhartha",
       "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Vorzugsausgabe_der_Erstauflage_von_1922%2C_Originalverlagseinband.JPG",
       "pages": 152,
@@ -404,7 +404,7 @@
       "languageId": 1
     },
     {
-      "id": 32,
+      "id": "32",
       "title": "Les Misérables",
       "image": "https://mpd-biblio-covers.imgix.net/9781909621497.jpg",
       "pages": 1463,
@@ -417,7 +417,7 @@
       "languageId": 1
     },
     {
-      "id": 33,
+      "id": "33",
       "title": "The Hunchback of Notre-Dame",
       "image": "https://images.penguinrandomhouse.com/cover/9780307957818",
       "pages": 940,
@@ -430,7 +430,7 @@
       "languageId": 1
     },
     {
-      "id": 34,
+      "id": "34",
       "title": "A Tale of Two Cities",
       "image": "https://media.anobii.com/covers/018b18cf148f5311ca/300/464/2/paperback/webp/1386931944",
       "pages": 448,
@@ -443,7 +443,7 @@
       "languageId": 1
     },
     {
-      "id": 35,
+      "id": "35",
       "title": "The Count of Monte Cristo",
       "image": "https://images.penguinrandomhouse.com/cover/9780553213508",
       "pages": 1276,
@@ -456,7 +456,7 @@
       "languageId": 1
     },
     {
-      "id": 36,
+      "id": "36",
       "title": "The Canterbury Tales",
       "image": "https://images2.penguinrandomhouse.com/cover/9780553902525",
       "pages": 544,
@@ -469,7 +469,7 @@
       "languageId": 1
     },
     {
-      "id": 37,
+      "id": "37",
       "title": "The War of the Worlds",
       "image": "https://images2.penguinrandomhouse.com/cover/9780553213386",
       "pages": 192,
@@ -482,7 +482,7 @@
       "languageId": 1
     },
     {
-      "id": 38,
+      "id": "38",
       "title": "The Scarlet Letter",
       "image": "https://media.anobii.com/covers/01cc481b8fc928baae/300/461/2/paperback/webp/1356994625",
       "pages": 238,
@@ -495,7 +495,7 @@
       "languageId": 1
     },
     {
-      "id": 39,
+      "id": "39",
       "title": "The Divine Comedy",
       "image": "https://media.anobii.com/covers/0170850680490a6770/300/459/2/paperback/webp/1219528259",
       "pages": 798,
@@ -508,7 +508,7 @@
       "languageId": 1
     },
     {
-      "id": 40,
+      "id": "40",
       "title": "The Jungle Book",
       "image": "https://images.penguinrandomhouse.com/cover/9780375984372",
       "pages": 336,
@@ -521,7 +521,7 @@
       "languageId": 1
     },
     {
-      "id": 41,
+      "id": "41",
       "title": "The Three Musketeers",
       "image": "https://mpd-biblio-covers.imgix.net/9781466803435.jpg",
       "pages": 704,
@@ -534,7 +534,7 @@
       "languageId": 1
     },
     {
-      "id": 42,
+      "id": "42",
       "title": "Gulliver's Travels",
       "image": "https://media.anobii.com/covers/019b2975bc94be763f/300/470/2/hardcover/webp/0",
       "pages": 306,
@@ -547,7 +547,7 @@
       "languageId": 1
     },
     {
-      "id": 43,
+      "id": "43",
       "title": "The Wind in the Willows",
       "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/The_Wind_in_the_Willows_cover.jpg",
       "pages": 256,
@@ -560,7 +560,7 @@
       "languageId": 1
     },
     {
-      "id": 44,
+      "id": "44",
       "title": "The Idiot",
       "image": "https://images1.penguinrandomhouse.com/cover/9781101433058",
       "pages": 624,
@@ -573,7 +573,7 @@
       "languageId": 1
     },
     {
-      "id": 46,
+      "id": "46",
       "title": "The Gambler",
       "image": "https://media.anobii.com/covers/019764ae27986519f2/300/450/2/paperback/webp/1317056706",
       "pages": 256,
@@ -586,7 +586,7 @@
       "languageId": 1
     },
     {
-      "id": 47,
+      "id": "47",
       "title": "Kafka on the Shore",
       "image": "https://media.anobii.com/covers/0070f19846c08347e7/300/456/2/paperback/webp/0",
       "pages": 467,
@@ -599,7 +599,7 @@
       "languageId": 1
     },
     {
-      "id": 48,
+      "id": "48",
       "title": "1Q84",
       "image": "https://media.anobii.com/covers/01ed6c66e1c53b18e8/300/432/2/paperback/webp/1271507047",
       "pages": 1157,
@@ -612,7 +612,7 @@
       "languageId": 1
     },
     {
-      "id": 49,
+      "id": "49",
       "title": "Moderato Cantabile",
       "image": "https://media.anobii.com/covers/0187cd8949c367dde7/300/471/2/paperback/webp/0",
       "pages": 160,
@@ -625,7 +625,7 @@
       "languageId": 2
     },
     {
-      "id": 50,
+      "id": "50",
       "title": "Critique of Pure Reason",
       "image": "https://media.anobii.com/covers/018490c9a2e62e22fc/300/470/2/paperback/webp/0",
       "pages": 796,
@@ -638,7 +638,7 @@
       "languageId": 1
     },
     {
-      "id": 51,
+      "id": "51",
       "title": "Groundwork of the Metaphysics of Morals",
       "image": "https://media.anobii.com/covers/0160b5a697ebe99d21/300/420/2/paperback/webp/0",
       "pages": 178,
@@ -651,7 +651,7 @@
       "languageId": 1
     },
     {
-      "id": 52,
+      "id": "52",
       "title": "The Importance of Being Earnest",
       "image": "https://media.anobii.com/covers/003b9ad85613ed4261/300/449/2/paperback/webp/1251347214",
       "pages": 76,
@@ -664,7 +664,7 @@
       "languageId": 1
     },
     {
-      "id": 53,
+      "id": "53",
       "title": "Tender Is the Night",
       "image": "https://static.wixstatic.com/media/b73385_7bcf4645d3894db1950210d5704efb7a~mv2.jpg/v1/fill/w_428,h_665,al_c,lg_1,q_80,enc_auto/b73385_7bcf4645d3894db1950210d5704efb7a~mv2.jpg",
       "pages": 336,
@@ -677,7 +677,7 @@
       "languageId": 1
     },
     {
-      "id": 54,
+      "id": "54",
       "title": "Eugene Onegin",
       "image": "https://media.anobii.com/covers/01896462dbe2d2724e/300/461/2/paperback/webp/0",
       "pages": 416,
@@ -690,7 +690,7 @@
       "languageId": 2
     },
     {
-      "id": 55,
+      "id": "55",
       "title": "War and Peace",
       "image": "https://cdn.penguin.co.uk/dam-assets/books/9781849908467/9781849908467-jacket-large.jpg",
       "pages": 1225,
@@ -703,7 +703,7 @@
       "languageId": 2
     },
     {
-      "id": 56,
+      "id": "56",
       "title": "The Hound of the Baskervilles",
       "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Cover_%28Hound_of_Baskervilles%2C_1902%29.jpg",
       "pages": 256,
@@ -716,7 +716,7 @@
       "languageId": 1
     },
     {
-      "id": 57,
+      "id": "57",
       "title": "Maigret and the Yellow Dog",
       "image": "https://upload.wikimedia.org/wikipedia/en/0/09/LeChienJaune.jpg",
       "pages": 176,
@@ -729,7 +729,7 @@
       "languageId": 1
     },
     {
-      "id": 58,
+      "id": "58",
       "title": "The Autobiography of Benjamin Franklin",
       "image": "https://media.anobii.com/covers/00b3cbbc06733073d8/300/457/2/hardcover/webp/0",
       "pages": 160,
@@ -742,7 +742,7 @@
       "languageId": 1
     },
     {
-      "id": 59,
+      "id": "59",
       "title": "Do Androids Dream of Electric Sheep?",
       "image": "https://media.anobii.com/covers/01f8402eb8604e95eb/300/461/2/hardcover/webp/1312258748",
       "pages": 256,
@@ -755,7 +755,7 @@
       "languageId": 1
     },
     {
-      "id": 60,
+      "id": "60",
       "title": "Ubik",
       "image": "https://media.anobii.com/covers/011f6988352bee5629/300/484/2/paperback/webp/0",
       "pages": 224,
@@ -768,7 +768,7 @@
       "languageId": 1
     },
     {
-      "id": 61,
+      "id": "61",
       "title": "The 10th Victim",
       "image": "https://media.anobii.com/covers/011897ab6e76f270b5/300/489/2/paperback/webp/1198164242",
       "pages": 208,
@@ -781,7 +781,7 @@
       "languageId": 1
     },
     {
-      "id": 62,
+      "id": "62",
       "title": "Solaris",
       "image": "https://hypeandhyper.com/content/images/2023/04/finn01_1973_v_81.jpg",
       "pages": 204,
@@ -794,7 +794,7 @@
       "languageId": 1
     },
     {
-      "id": 63,
+      "id": "63",
       "title": "Phenomenology of Spirit",
       "image": "https://assets.cambridge.org/97811087/30082/cover/9781108730082.jpg",
       "pages": 638,
@@ -807,7 +807,7 @@
       "languageId": 1
     },
     {
-      "id": 64,
+      "id": "64",
       "title": "Science of Logic",
       "image": "https://rowman.com/L/14/985/9781498560573.jpg",
       "pages": 808,
@@ -820,7 +820,7 @@
       "languageId": 1
     },
     {
-      "id": 65,
+      "id": "65",
       "title": "The Complete Poems of Emily Dickinson",
       "image": "https://media.anobii.com/covers/0172f224dcfc4d9e7a/300/461/2/hardcover/webp/1327947005",
       "pages": 700,
@@ -833,7 +833,7 @@
       "languageId": 1
     },
     {
-      "id": 66,
+      "id": "66",
       "title": "To the Lighthouse",
       "image": "data:image/jpeg;base64,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",
       "pages": 209,
@@ -846,7 +846,7 @@
       "languageId": 1
     },
     {
-      "id": 67,
+      "id": "67",
       "title": "Alice's Adventures in Wonderland",
       "image": "https://media.anobii.com/covers/00f1719322f087cb90/300/365/2/hardcover/webp/0",
       "pages": 192,
@@ -869,323 +869,446 @@
       "rating": 2.2,
       "genreId": 1,
       "languageId": 1,
-      "id": 68
+      "id": "68",
+      "userId": 1
     }
   ],
   "authors": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Arthur Conan Doyle"
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Virginia Woolf"
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "Fyodor M. Dostoevsky"
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "Fernando Pessoa"
     },
     {
-      "id": 5,
+      "id": "5",
       "name": "Italo Calvino"
     },
     {
-      "id": 6,
+      "id": "6",
       "name": "John Milton"
     },
     {
-      "id": 7,
+      "id": "7",
       "name": "Haruki Murakami"
     },
     {
-      "id": 8,
+      "id": "8",
       "name": "Banana Yoshimoto"
     },
     {
-      "id": 9,
+      "id": "9",
       "name": "Marguerite Duras"
     },
     {
-      "id": 10,
+      "id": "10",
       "name": "Francis Scott Fitzgerald"
     },
     {
-      "id": 11,
+      "id": "11",
       "name": "Harper Lee"
     },
     {
-      "id": 12,
+      "id": "12",
       "name": "George Orwell"
     },
     {
-      "id": 13,
+      "id": "13",
       "name": "Jane Austen"
     },
     {
-      "id": 14,
+      "id": "14",
       "name": "Gabriel Garcia"
     },
     {
-      "id": 15,
+      "id": "15",
       "name": "Herman Melville"
     },
     {
-      "id": 16,
+      "id": "16",
       "name": "J. D. Salinger"
     },
     {
-      "id": 17,
+      "id": "17",
       "name": "J.R.R Tolkien"
     },
     {
-      "id": 18,
+      "id": "18",
       "name": "John Steinbeck"
     },
     {
-      "id": 19,
+      "id": "19",
       "name": "Emily Bronte"
     },
     {
-      "id": 20,
+      "id": "20",
       "name": "Aldous Huxley"
     },
     {
-      "id": 21,
+      "id": "21",
       "name": "Mary Shelley"
     },
     {
-      "id": 22,
+      "id": "22",
       "name": "Homer"
     },
     {
-      "id": 23,
+      "id": "23",
       "name": "Charlotte Bronte"
     },
     {
-      "id": 24,
+      "id": "24",
       "name": "Oscar Wilde"
     },
     {
-      "id": 25,
+      "id": "25",
       "name": "Leo Tolstoy"
     },
     {
-      "id": 26,
+      "id": "26",
       "name": "Herman Hesse"
     },
     {
-      "id": 27,
+      "id": "27",
       "name": "Victor Hugo"
     },
     {
-      "id": 28,
+      "id": "28",
       "name": "Charles Dickens"
     },
     {
-      "id": 29,
+      "id": "29",
       "name": "Alexandre Dumas"
     },
     {
-      "id": 30,
+      "id": "30",
       "name": "Geoffrey Chaucer"
     },
     {
-      "id": 31,
+      "id": "31",
       "name": "H.G. Wells"
     },
     {
-      "id": 32,
+      "id": "32",
       "name": "Nathaniel Hawthorne"
     },
     {
-      "id": 33,
+      "id": "33",
       "name": "Dante Alighieri"
     },
     {
-      "id": 34,
+      "id": "34",
       "name": "Rudyard Kipling"
     },
     {
-      "id": 35,
+      "id": "35",
       "name": "Jonathan Swift"
     },
     {
-      "id": 36,
+      "id": "36",
       "name": "Kenneth Grahame"
     },
     {
-      "id": 37,
+      "id": "37",
       "name": "Emmanuel Kant"
     },
     {
-      "id": 38,
+      "id": "38",
       "name": "Aleksander Pushkin"
     },
     {
-      "id": 39,
+      "id": "39",
       "name": "Georges Simenon"
     },
     {
-      "id": 40,
+      "id": "40",
       "name": "Benjamin Franklin"
     },
     {
-      "id": 41,
+      "id": "41",
       "name": "Philip K. Dick"
     },
     {
-      "id": 42,
+      "id": "42",
       "name": "Robert Scheckley"
     },
     {
-      "id": 43,
+      "id": "43",
       "name": "Stanislaw Lem"
     },
     {
-      "id": 44,
+      "id": "44",
       "name": "G. W Friedrich Hegel"
     },
     {
-      "id": 45,
+      "id": "45",
       "name": "Emily Dickinson"
     },
     {
-      "id": 46,
+      "id": "46",
       "name": "Lewis Carroll"
     },
     {
       "name": "Random House",
-      "id": 47
+      "id": "47"
     },
     {
       "name": "askmdkalsd",
-      "id": 48
+      "id": "48"
+    },
+    {
+      "name": "wwwww",
+      "id": "49"
+    },
+    {
+      "name": "asdasd",
+      "id": "50"
+    },
+    {
+      "name": "asdadsasd",
+      "id": "51"
+    },
+    {
+      "name": "ppppppp",
+      "id": "52"
+    },
+    {
+      "name": "asdasd",
+      "id": "53"
+    },
+    {
+      "name": "asd",
+      "id": "54"
+    },
+    {
+      "name": "wqwq",
+      "id": "55"
     }
   ],
   "publishers": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Penguin Random House"
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "HarperCollins"
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "Simon & Schuster"
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "Hachette Book Group"
     },
     {
-      "id": 5,
+      "id": "5",
       "name": "Macmillan Publishers"
     },
     {
-      "id": 6,
+      "id": "6",
       "name": "Scholastic Corporation"
     },
     {
-      "id": 7,
+      "id": "7",
       "name": "Wiley"
     },
     {
-      "id": 8,
+      "id": "8",
       "name": "Knopf Doubleday Publishing Group"
     },
     {
-      "id": 9,
+      "id": "9",
       "name": "Quirk Books"
     },
     {
-      "id": 10,
+      "id": "10",
       "name": "Pearson"
     },
     {
-      "id": 11,
+      "id": "11",
       "name": "Bloomsbury Publishing"
     },
     {
-      "id": 12,
+      "id": "12",
       "name": "Harlequin"
     },
     {
-      "id": 13,
+      "id": "13",
       "name": "Houghton Mifflin Harcourt"
     },
     {
-      "id": 14,
+      "id": "14",
       "name": "Alfred A. Knopf"
     },
     {
-      "id": 15,
+      "id": "15",
       "name": "Mondadori"
     }
   ],
   "genres": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Crime & Detective Novels"
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Fiction & Literature"
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "Fantasy & Science Fiction"
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "Biography & Autobiography"
     },
     {
-      "id": 5,
+      "id": "5",
       "name": "Philosophy"
     },
     {
-      "id": 6,
+      "id": "6",
       "name": "Children's Literature"
     },
     {
-      "id": 7,
+      "id": "7",
       "name": "Poetry & Poems"
     }
   ],
   "languages": [
     {
-      "id": 1,
+      "id": "1",
       "name": "English"
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "French"
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "Spanish"
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "Italian"
     },
     {
-      "id": 5,
+      "id": "5",
       "name": "Portuguese"
     },
     {
-      "id": 1,
+      "id": "1",
       "name": "Arabics"
     },
     {
-      "id": 1,
+      "id": "1",
       "name": "Russian"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "mohammed",
+      "profile": "https://hypeandhyper.com/content/images/2023/04/finn01_1973_v_81.jpg",
+      "email": "example@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "536f",
+      "name": "Marta",
+      "profile": "https://hypeandhyper.com/content/images/2023/04/finn01_1973_v_81.jpg",
+      "email": "olivier@mail.com",
+      "password": "bestPassw0rd"
+    },
+    {
+      "email": "oliviser@mail.com",
+      "password": "$2a$10$.4XMCqsAdy0oao1X1J4SiuW8pz4/sNNbNwRitBmdgrTsl4KeOOOBu",
+      "firstname": "Olivier",
+      "lastname": "Monge",
+      "age": 32,
+      "id": "ZEh6wmT"
+    },
+    {
+      "email": "asd@maas.comas",
+      "password": "$2a$10$XvOPVJtsDTxDeH19ZPrRZeWTqvy6ayDUIgOSknYbhA0WPFgiSZ.3i",
+      "name": "asd1as",
+      "id": "owtGR3a"
+    },
+    {
+      "email": "asd@maas.com",
+      "password": "$2a$10$tlXN2BS/GnqzRnZLTQaevuW4V7huY4OBIrGIa9QI5iTYdabLsb6LK",
+      "name": "kmasdmn",
+      "id": "i4msFwt"
+    },
+    {
+      "email": "asd@asdas.com",
+      "password": "$2a$10$6d44ftfxx8Qb/SPDHF8M2OUl9TE1trA203JDiF8RRMoMJPAgbkhs2",
+      "name": "asdklm",
+      "id": "ZiOGZB7"
+    },
+    {
+      "email": "asd@as.com",
+      "password": "$2a$10$oeyL8EGVOBr6N3nMsjQbSuisqFo/Kda4nS41NHJ4/Gs2W3MmmgWWi",
+      "name": "asd",
+      "id": "5LC79vd"
+    },
+    {
+      "email": "a@a.com",
+      "password": "$2a$10$z2GdV/j2WV2/NIakbTh9Se72sbr4EtqWtBCX/K5YUi8Ef/CaLKHau",
+      "name": "amskdm",
+      "id": "2pZpLTD"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "comment": "hello!",
+      "created_date": "12.12.2023",
+      "userId": 1,
+      "bookId": 1
+    },
+    {
+      "comment": "hello!",
+      "created_date": "12.12.2023",
+      "bookId": 1,
+      "id": "-8j8tkW"
+    },
+    {
+      "comment": "hello!",
+      "created_date": "12.12.2023",
+      "bookId": 1,
+      "id": "rl4Ep_E"
+    },
+    {
+      "comment": "hello!",
+      "created_date": "12.12.2023",
+      "bookId": 1,
+      "id": "5fFBLQw"
+    },
+    {
+      "comment": "hello!",
+      "created_date": "12.12.2023",
+      "bookId": 1,
+      "id": "EHIB1A0"
+    },
+    {
+      "comment": "hello!",
+      "created_date": "12.12.2023",
+      "bookId": 1,
+      "userId": "ZEh6wmT",
+      "id": "eBcLv4_"
     }
   ]
 }
