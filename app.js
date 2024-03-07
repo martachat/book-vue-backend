@@ -22,7 +22,7 @@ const rules = auth.rewriter({
   // Permission rules
   // users: 600,
   // books: 640,
-  // "books/:id": 640,
+  "books/:id": 640,
   // comments:644,
   // Other rules
   // '/books/: '/books',
