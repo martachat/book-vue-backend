@@ -23,12 +23,13 @@ const rules = auth.rewriter({
   // users: 600,
   // books: 640,
   // "books/:id": 640,
-  admin: 640,
+  // "admin/*": 640,
   // comments:644,
   // Other rules
   // '/books/: '/books',
 });
 
+//s
 server.use(rules);
 server.use(auth);
 server.use(router);
