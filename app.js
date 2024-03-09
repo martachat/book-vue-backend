@@ -29,7 +29,6 @@ const rules = auth.rewriter({
   "admin/": 640,
   "admin/create": 640,
   "admin/:id/edit": 640,
-  "books/:id": 640,
 });
 
 //s
