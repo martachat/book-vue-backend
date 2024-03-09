@@ -27,7 +27,9 @@ const rules = auth.rewriter({
   // comments:644,
   // Other rules
   // '/books/: '/books',
-  admin: 644,
+  "/admin/": 640,
+  "/admin/create": 640,
+  "/admin/:id/edit": 640,
 });
 
 //s
